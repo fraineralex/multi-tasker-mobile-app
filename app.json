@@ -1,0 +1,21 @@
+{
+  "expo": {
+    "name": "Multi Tasker",
+    "icon": "./icon.jpg",
+    "version": "1.0.0",
+    "slug": "multi-tasker",
+    "ios": {
+      "bundleIdentifier": "com.fraineralex.multitasker",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.fraineralex.multitasker",
+      "versionCode": 1
+    },
+    "extra": {
+      "eas": {
+        "projectId": "753dceac-8de3-4d4b-a400-308900a6dfe9"
+      }
+    }
+  }
+}
